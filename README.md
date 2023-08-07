@@ -5,9 +5,7 @@
 </span>
 
 ## Full-Stack Developer 
-<span>
   * React/Next.js
   * Python, Flask, & Django
   * MongoDB & SQL
   * AWS & Vercel
-</span>

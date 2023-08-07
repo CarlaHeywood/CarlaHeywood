@@ -4,8 +4,8 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlaHeywood&layout=compact" />
 </span>
 
-<span width="100%">
 ## Full-Stack Developer 
+<span>
   * React/Next.js
   * Python, Flask, & Django
   * MongoDB & SQL
